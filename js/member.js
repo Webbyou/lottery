@@ -5,7 +5,7 @@ var member = [
   },
   {
     "phone": "No.2",
-    "name": "Mr.Q"
+    "name": "Zio Angelo"
   },
   {
     "phone": "No.3",
@@ -33,7 +33,7 @@ var member = [
   },
   {
     "phone": "No.9",
-    "name": "Allà"
+    "name": "Noi"
   },
   {
     "phone": "No.10",
@@ -69,7 +69,7 @@ var member = [
   },
   {
     "phone": "No.18",
-    "name": "Halu"
+    "name": "Carmelo"
   },
   {
     "phone": "No.19",
@@ -81,15 +81,15 @@ var member = [
   },
   {
     "phone": "No.21",
-    "name": "alkd"
+    "name": "Mammina"
   },
   {
     "phone": "No.22",
-    "name": "Allenz"
+    "name": "Tuo Padre"
   },
   {
     "phone": "No.23",
-    "name": "Deciso"
+    "name": "Mia madre"
   },
   {
     "phone": "No.24",
@@ -97,27 +97,27 @@ var member = [
   },
   {
     "phone": "No.25",
-    "name": "dodo"
+    "name": "Hioannhs"
   },
   {
     "phone": "No.26",
-    "name": "Nadia"
+    "name": "Farh"
   },
   {
     "phone": "No.27",
-    "name": "Hunter"
+    "name": "Mio Padre"
   },
    {
     "phone": "No.28",
-    "name": "LOCKOFF"
+    "name": "Kin"
   },
   {
     "phone": "No.29",
-    "name": "Jessie"
+    "name": "Pu"
   },
   {
     "phone": "No.30",
-    "name": "unoo"
+    "name": "Ghin"
   },
   {
     "phone": "No.31",
@@ -125,7 +125,7 @@ var member = [
   },
   {
     "phone": "No.32",
-    "name": "cyc123"
+    "name": "Totò"
   },
   {
     "phone": "No.33",
