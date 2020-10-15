@@ -213,7 +213,15 @@
         canvas.width = document.body.offsetWidth;
         canvas.height = document.body.offsetHeight;
         document.getElementById('main').appendChild(canvas);
-        new Vue(
+        new Vue({
+            el: '#tools',
+            data: {
+                selected: 1,
+                running: false,
+                btns: [
+                   
+                ]
+            },
             mounted () {
                 canvas.innerHTML = createHTML();
                 TagCanvas.Start('myCanvas', '', {
